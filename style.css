@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 300px;
+}
+
+.filme1, .filme3 {
+  background-color: rgb(92, 10, 44);
+}
+
+#bt1 {
+  background-color: rgb(255, 0, 89);
+}/*# sourceMappingURL=style.css.map */

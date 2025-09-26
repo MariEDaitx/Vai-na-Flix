@@ -1,0 +1,24 @@
+//seletores: propriedades:Valores
+
+//* = seletor global
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+//Selecionando por Tags 
+
+img {
+    width: 300px;
+}
+
+//Selecionando por classes 
+ 
+.filme1 , .filme3 {
+    background-color: rgb(92, 10, 44);
+}
+
+//Selecionando por id
+#bt1 {
+    background-color: rgb(255, 0, 89);
+}
